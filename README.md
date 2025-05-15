@@ -23,9 +23,7 @@ Here are the key tasks and insights from my analysis:
 
 ✅ Votes Analysis: Investigated user engagement metrics to assess customer trust and interaction.
 
- ✅ Price Range vs. Online Delivery & Booking: Compared price segmentation with online delivery frequency and booking trends.
-
-## Tools & Libraries Used:  Python (Pandas, Matplotlib, Seaborn, NumPy) 
+ ✅ Price Range vs. Online Delivery & Booking: Compared price segmentation with online delivery frequency and booking trends. 
 
  Next Steps: I aim to enhance this analysis by integrating predictive analytics.
  Would love to hear thoughts from fellow data professionals—how do you see data transforming the restaurant industry? 
