@@ -1,11 +1,13 @@
-## Restaurant_Data_Analysis##
+## Restaurant_Data_Analysis
 
-## Restaurant Data Analysis Using Python – Key Insights & Trends ##
+## Restaurant Data Analysis Using Python – Key Insights & Trends 
 
 I recently explored restaurant data using Python, uncovering crucial trends that impact business strategies in the food industry.
 Here are the key tasks and insights from my analysis:
 
-## Key Tasks & Findings:##
+## Tools & Libraries Used:  Python (Pandas, Matplotlib, Seaborn, NumPy) 
+
+## Key Tasks & Findings:
 
  ✅ Top Cuisines Analysis: Identified the most popular cuisines based on customer preferences and order frequencies. 
  
